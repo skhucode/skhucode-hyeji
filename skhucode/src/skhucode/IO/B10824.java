@@ -1,4 +1,4 @@
-package skhucode.Collections;
+package skhucode.IO;
 
 
 import java.io.BufferedReader;
