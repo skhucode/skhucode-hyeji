@@ -1,3 +1,4 @@
+package skhucode.Collections;
 
 
 import java.io.BufferedReader;
@@ -9,8 +10,8 @@ public class B1076 {
 
 	public static void main(String[] args) throws Exception{
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-		Map<String, String> table = new HashMap<>();
 		
+		Map<String, String> table = new HashMap<>();
 		table.put("black", "0");
 		table.put("brown", "1");
 		table.put("red", "2");
@@ -27,10 +28,13 @@ public class B1076 {
 			s[i] = br.readLine();
 		}
 		
-		int value = Integer.parseInt(table.get(s[0]) + table.get(s[1]));
-		int multi = (int)Math.pow(10, Integer.parseInt(table.get(s[2]))); // 제곱함수 Math.pow(밑, 지수)
+		String s1 = table.get(s[0]).equals("0") ? "" : table.get(s[0]);
+		String s2 = table.get(s[1]);
+		int value = Integer.parseInt(s1 + s2);
+		long multi = (long)Math.pow(10, Integer.parseInt(table.get(s[2])));
+		long result = value * multi;
 		
-		System.out.println(value * multi);
+		System.out.println(result);
 	}
 
 }
