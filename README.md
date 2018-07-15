@@ -31,15 +31,15 @@
 ### Sort
 
 + 11650번 [좌표 정렬하기](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/Sort/B11650.java) 
-+ 11651번 [좌표 정렬하기 2](www)
++ 11651번 [좌표 정렬하기 2](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/Sort/B11651.java)
 
 
 
 ### BigInteger
 
-+ 10826번 [피보나치 수 4](www)
-+ 10757번 [큰 수 A+B](www)
-+ 10827번 [a^b](www)
++ 10826번 [피보나치 수 4](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/BigInteger/B10826.java)
++ 10757번 [큰 수 A+B](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/BigInteger/B10757.java)
++ 10827번 [a^b](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/BigInteger/B10827.java)
 
 
 
