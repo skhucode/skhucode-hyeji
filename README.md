@@ -80,7 +80,7 @@
 
 ### Dynamic Programming
 
-+ 1463번 [1호 만들기](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/DynamicProgramming/B1463.java)
++ 1463번 [1로 만들기](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/DynamicProgramming/B1463.java)
 + 11726번 [2xn 타일링](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/DynamicProgramming/B11726.java)
 + 11727번 [2xn 타일링 2](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/DynamicProgramming/B11727.java)
 + 9095번 [1, 2, 3 더하기](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/DynamicProgramming/B9095.java)
