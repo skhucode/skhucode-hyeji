@@ -90,6 +90,17 @@
 + 2193번 [이친수](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/DynamicProgramming/B2193.java)
 + 9465번 [스티커](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/DynamicProgramming/B9465.java)
 + 2156번 [포도주 시식](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/DynamicProgramming/B2156.java)
++ 11053번 [가장 긴 증가하는 부분 수열](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/DynamicProgramming/B11053.java)
++ 11055번 [가장 큰 증가하는 부분 수열](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/DynamicProgramming/B11055.java)
++ 11722번 [가장 긴 감소하는 부분 수열](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/DynamicProgramming/B11722.java)
++ 11054번 [가장 긴 바이토닉 부분 수열](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/DynamicProgramming/B11054.java)
++ 1912번 [연속합](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/DynamicProgramming/B1912.java)
++ 2579번 [계단 오르기](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/DynamicProgramming/B2579.java)
++ 1699번 [제곱수의 합](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/DynamicProgramming/B1699.java)
++ 2133번 [타일 채우기](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/DynamicProgramming/B2133.java)
++ 9461번 [파도반 수열](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/DynamicProgramming/B9461.java)
++ 2225번 [합분해](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/DynamicProgramming/B2225.java)
++ 2011번 [암호 코드](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/DynamicProgramming/B2011.java)
 
 
 
