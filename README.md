@@ -41,6 +41,13 @@
 
 + 11650번 [좌표 정렬하기](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/Sort/B11650.java) 
 + 11651번 [좌표 정렬하기 2](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/Sort/B11651.java)
++ 2751번 [수 정렬하기2](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/Sort/B2751.java)
++ 10814번 [나이순 정렬]()
++ 10825번 [국영수]()
++ 10989번 [수 정렬하기3]()
++ 11652번 [카드]()
++ 11004번 [K번째 수](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/Sort/B11004.java)
++ 1377번 [버블 소트]()
 
 
 
@@ -103,4 +110,24 @@
 + 2011번 [암호 코드](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/DynamicProgramming/B2011.java)
 
 
+
+### Math
+
++ 10430번 [나머지](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/Math/B10430.java)
++ 2609번 [최대공약수와 최소공배수](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/Math/B2609.java)
++ 1934번 [최소공배수](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/Math/B1934.java)
++ 9613번 [GCD 합](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/Math/B9613.java)
++ 11005번 [진법 변환2](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/Math/B11005.java)
++ 2745번 [진법 변환](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/Math/B2745.java)
++ 1373번 [2진수 8진수](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/Math/B1373.java)
++ 1212번 [8진수 2진수](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/Math/B1212.java)
++ 2089번 [-2진수]()
++ 11576번 [Base Conversion]()
++ 1978번 [소수찾기](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/Math/B1978.java)
++ 1929번 [소수 구하기](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/Math/B1929.java)
++ 6588번 [골드바흐의 추측]()
++ 11653번 [소인수 분해](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/Math/B11653.java)
++ 10872번 [팩토리얼](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/Math/B10872.java)
++ 1676번 [팩토리얼 0의 개수](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/Math/B1676.java)
++ 2004번 [조합 0의 개수]()
 
