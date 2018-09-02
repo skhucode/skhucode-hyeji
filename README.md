@@ -42,12 +42,12 @@
 + 11650번 [좌표 정렬하기](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/Sort/B11650.java) 
 + 11651번 [좌표 정렬하기 2](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/Sort/B11651.java)
 + 2751번 [수 정렬하기2](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/Sort/B2751.java)
-+ 10814번 [나이순 정렬]()
-+ 10825번 [국영수]()
-+ 10989번 [수 정렬하기3]()
-+ 11652번 [카드]()
++ 10814번 [나이순 정렬](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/Sort/B10814.java)
++ 10825번 [국영수](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/Sort/B10825.java)
++ 10989번 [수 정렬하기3](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/Sort/B10989.java)
++ 11652번 [카드](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/Sort/B11652.java)
 + 11004번 [K번째 수](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/Sort/B11004.java)
-+ 1377번 [버블 소트]()
++ 1377번 [버블 소트](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/Sort/B1377.java)
 
 
 
@@ -121,13 +121,37 @@
 + 2745번 [진법 변환](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/Math/B2745.java)
 + 1373번 [2진수 8진수](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/Math/B1373.java)
 + 1212번 [8진수 2진수](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/Math/B1212.java)
-+ 2089번 [-2진수]()
-+ 11576번 [Base Conversion]()
++ 2089번 [-2진수](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/Math/B2089.java)
++ 11576번 [Base Conversion](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/Math/B11576.java)
 + 1978번 [소수찾기](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/Math/B1978.java)
 + 1929번 [소수 구하기](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/Math/B1929.java)
-+ 6588번 [골드바흐의 추측]()
++ 6588번 [골드바흐의 추측](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/Math/B6588.java)
 + 11653번 [소인수 분해](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/Math/B11653.java)
 + 10872번 [팩토리얼](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/Math/B10872.java)
 + 1676번 [팩토리얼 0의 개수](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/Math/B1676.java)
-+ 2004번 [조합 0의 개수]()
++ 2004번 [조합 0의 개수](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/Math/B2004.java)
 
+
+
+### Graph
+
++ 1260번 [DFS와 BFS](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/Graph/B1260.java)
++ 11724번 [연결 요소의 개수](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/Graph/B11724.java)
++ 1707번 [이분 그래프](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/Graph/B1707.java)
++ 10451번 [순열 사이클](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/Graph/B10451.java)
++ 2331번 [반복수열](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/Graph/B2331.java)
++ 9466번 [텀 프로젝트](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/Graph/B9466.java)
++ 2667번 [단지번호붙이기](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/Graph/B2667.java)
++ 4963번 [섬의 개수](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/Graph/B4963.java)
++ 2178번 [미로 탐색](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/Graph/B2178.java)
++ 7576번 [토마토](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/Graph/B7576.java)
++ 2146번 [다리만들기](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/Graph/B2146.java)
+
+
+
+### Tree
+
++ 1991번 [트리 순회](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/Tree/B1991.java)
++ 11725번 [트리의 부모 찾기](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/Tree/B11725.java)
++ 1167번 [트리의 지름](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/Tree/B1167.java)
++ 1967번 [트리의 지름](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/Tree/B1967.java)
