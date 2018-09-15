@@ -155,3 +155,15 @@
 + 11725번 [트리의 부모 찾기](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/Tree/B11725.java)
 + 1167번 [트리의 지름](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/Tree/B1167.java)
 + 1967번 [트리의 지름](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/Tree/B1967.java)
+
+
+
+### Greedy
+
++ 11047번 [동전0](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/Greedy/B11047.java)
++ 11399번 [ATM](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/Greedy/B11399.java)
++ 1541번 [잃어버린 괄호](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/Greedy/B1541.java)
++ 1744번 [수 묶기](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/Greedy/B1744.java)
++ 1931번 [회의실 배정](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/Greedy/B1931.java)
++ 2875번 [대회 or 인턴](https://github.com/skhucode/skhucode-hyeji/blob/master/skhucode/src/skhucode/Greedy/B2875.java)
+
