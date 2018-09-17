@@ -14,16 +14,17 @@ public class B1541 {
 		int result = 0;
 		int i = 0; // -가 처음 나온 인덱스를 저장함
 		String number = "";
+		// 첫 번째 -가 나올때까지 반복
 		for(i = 0; i < s.length(); ++i) {
 			char c = s.charAt(i);
 			if('0' <= c && c <= '9') {
 				number += String.valueOf(c); // 숫자를 문자로 더해서 저장함
 			}
 			else if(c == '+') {
-				result += Integer.parseInt(number); // + 혹은 -가 나온경우 숫자를 더함
+				result += Integer.parseInt(number); // +가 나온경우 숫자를 더함
 				number = "";
 			}
-			else if(c == '-') {	// -가 처음 나오면 앞의 숫자는 더하고 반복문을 빠져나옴
+			else if(c == '-') {	// -가 나오면 앞의 숫자는 더하고 반복문을 빠져나옴
 				result += Integer.parseInt(number);
 				number = "";
 				break;
